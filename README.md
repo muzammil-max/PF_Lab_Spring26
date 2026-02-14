@@ -3,7 +3,7 @@
 # 💻 Programming Fundamentals – Lab Repository  
 
 ### 👨‍🎓 Student Information  
-**Name:** Muzamil  
+**Name:** Muzammil  
 **Roll Number:** 25K-6533  
 **Section:** BCE-2A  
 
