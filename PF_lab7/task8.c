@@ -4,5 +4,8 @@ int main() {
     printf("Enter characters (non alphabets): ");
     scanf("%[^A-Za-z]", strimg);
     printf("Stored characters: %s", strimg);
-
 }
+
+
+
+
