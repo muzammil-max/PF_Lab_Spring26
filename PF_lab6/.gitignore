@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# But keep this .gitignore file
+!.gitignore
+
+# Keep all task source files named like task1.c, task2.c, ...
+!task*.c
+
+!README.md
+
